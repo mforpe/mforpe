@@ -27,7 +27,12 @@
 #### Data base systems
 [<img alt="alt_text" height="50px" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png" />](https://www.microsoft.com/)
 &nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />](https://redis.io/)
+[<img alt="alt_text" height="40px" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" />](https://redis.io/)
+
+#### CI/CD software
+[<img alt="alt_text" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" />](https://www.jetbrains.com/teamcity)
+&nbsp;&nbsp;&nbsp;
+[<img alt="alt_text" height="50px" src="https://octopus.com/octopus-public/images/company/OctopusDeploy-logo-RGB.svg" />](https://octopus.com/)
 
 #### More software
 [<img alt="alt_text" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/320px-Git-logo.svg.png" />](https://git-scm.com/)
@@ -36,6 +41,4 @@
 &nbsp;&nbsp;&nbsp;
 [<img alt="alt_text" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/320px-RabbitMQ_logo.svg.png" />](https://www.rabbitmq.com/)
 &nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TeamCity_logo.svg/320px-TeamCity_logo.svg.png" />](https://www.jetbrains.com/teamcity)
-&nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="45px" src="https://octopus.com/octopus-public/images/company/OctopusDeploy-logo-RGB.svg" />](https://octopus.com/)
+[<img alt="alt_text" height="40px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg" />](https://www.elastic.co/)
