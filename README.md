@@ -10,7 +10,7 @@
 #### Programming languages & Web frameworks
 [<img alt="alt_text" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />](https://docs.microsoft.com/en-us/dotnet/)
 &nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.com/)
+[<img alt="alt_text" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 &nbsp;&nbsp;&nbsp;
 [<img alt="alt_text" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/es/docs/Web/JavaScript)
 &nbsp;&nbsp;&nbsp;
