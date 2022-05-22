@@ -37,3 +37,5 @@
 [<img alt="alt_text" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/320px-RabbitMQ_logo.svg.png" />](https://www.rabbitmq.com/)
 &nbsp;&nbsp;&nbsp;
 [<img alt="alt_text" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TeamCity_logo.svg/320px-TeamCity_logo.svg.png" />](https://www.jetbrains.com/teamcity)
+&nbsp;&nbsp;&nbsp;
+[<img alt="alt_text" height="45px" src="https://octopus.com/octopus-public/images/company/OctopusDeploy-logo-RGB.svg" />](https://octopus.com/)
