@@ -1,6 +1,6 @@
 <h2> Hi, I'm Manel! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150"> Welcome to my GitHub profile!</h2>
 
-**This is my current tech stack:**  
+**This is my current stack:**  
 
 #### Operating Systems
 
