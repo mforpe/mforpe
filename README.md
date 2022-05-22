@@ -1,44 +1,73 @@
-<h2> Hi, I'm Manel! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150"> Welcome to my GitHub profile!</h2>
+### <div align="center">Welcome to my Github profile!</div>  
+### <div align="center">I'm Manel, a full-time software engineer 👨‍💻</div>  
+  
+<br/>  
 
-**This is my current stack:**  
+## My current stack
+<table><tr>
 
-#### Operating systems
-[<img alt="alt_text" height="40px" src="https://github.com/github/explore/blob/main/topics/windows/windows.png" />](https://www.microsoft.com/)
-&nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="40px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png" />](https://en.wikipedia.org/wiki/Linux)
+<td valign="top" width="33%">
 
-#### Programming languages & Web frameworks
-[<img alt="alt_text" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />](https://docs.microsoft.com/en-us/dotnet/)
+### Programming languages & Web frameworks
+<div align="center">  
+<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" height="50" />
 &nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
+<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="60" />  
 &nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/es/docs/Web/JavaScript)
+<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height="50" />  
 &nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://en.wikipedia.org/wiki/SQL)
+<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="50" />
 &nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" />](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />](https://vuejs.org/)
+<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="50" />
 &nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
+<img  src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" height="50" />  
+</div>
+</td>
+  
+<td valign="top" width="33%">
+  
+### Data Base Systems  
+<div align="center">  
+<img src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />](https://dotnet.microsoft.com/en-us/apps/aspnet/)
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="60" />  
+&nbsp;&nbsp;&nbsp;
+<img src="https://redis.com/wp-content/uploads/2021/08/redis-logo.png" height="50" />  
+</div>
+</td>
 
-#### Data base systems
-[<img alt="alt_text" height="50px" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png" />](https://www.microsoft.com/)
+</tr>
+  
+<tr>
+  
+<td valign="top" width="33%">
+  
+### DevOps  
+<div align="center">  
+<img  src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="40" />
 &nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="40px" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" />](https://redis.io/)
+<img  src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" height="50" />  
+&nbsp;&nbsp;&nbsp;
+<img  src="https://octopus.com/octopus-public/images/company/Logo-Blue_140px_rgb.svg" height="50" />  
+&nbsp;&nbsp;&nbsp;
+<img  src="https://github.com/github/explore/blob/main/topics/windows/windows.png" height="50" />  
+&nbsp;&nbsp;&nbsp;
+<img  src="https://github.com/github/explore/blob/main/topics/linux/linux.png" height="50" />  
+</div>
+</td>
+  
+<td valign="top" width="33%">
+  
+###  Other software  
+<div align="center">  
+<img style="margin: 10px" src="https://www.quartz-scheduler.net/quartz-logo-large.png" height="25" />
+&nbsp;&nbsp;&nbsp;
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/320px-RabbitMQ_logo.svg.png" height="25" />  
+&nbsp;&nbsp;&nbsp;
+<img style="margin: 10px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg" height="40" />  
+</div>
+</td>
+  
+</tr></table>  
 
-#### CI/CD software
-[<img alt="alt_text" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" />](https://www.jetbrains.com/teamcity)
-&nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="50px" src="https://octopus.com/octopus-public/images/company/OctopusDeploy-logo-RGB.svg" />](https://octopus.com/)
-
-#### More software
-[<img alt="alt_text" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/320px-Git-logo.svg.png" />](https://git-scm.com/)
-&nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="30px" src="https://www.quartz-scheduler.net/quartz-logo-large.png" />](https://www.quartz-scheduler.net/)
-&nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/320px-RabbitMQ_logo.svg.png" />](https://www.rabbitmq.com/)
-&nbsp;&nbsp;&nbsp;
-[<img alt="alt_text" height="40px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg" />](https://www.elastic.co/)
+<br/>  
