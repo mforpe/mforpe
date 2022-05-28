@@ -1,4 +1,4 @@
-### <div align="center">Hi! I'm Manel, a software engineer 👨‍💻 Welcome to my Github profile!</div>  
+### <div align="center">Hi! I'm Manel 👨‍💻 Welcome to my Github profile!</div>  
 
 ## Professional interests
 
