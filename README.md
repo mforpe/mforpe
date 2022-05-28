@@ -2,11 +2,10 @@
 
 ## Professional interests
 
-* Backend development
-* Functional programming
-* Scientific programming
+* Backend development: databases, functional programming, parallel and high performance computing
+* Scientific programming: simulations
 * Artificial intelligence: machine learning
-* Data science
+* Data analysis
 * Cryptography and security
 
 ## Current stack
